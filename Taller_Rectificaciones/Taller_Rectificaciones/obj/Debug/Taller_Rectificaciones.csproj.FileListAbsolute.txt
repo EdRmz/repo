@@ -1,0 +1,54 @@
+c:\users\daniel\documents\visual studio 2012\Projects\Taller_Rectificaciones\Taller_Rectificaciones\bin\Debug\Taller_Rectificaciones.exe.config
+c:\users\daniel\documents\visual studio 2012\Projects\Taller_Rectificaciones\Taller_Rectificaciones\bin\Debug\Taller_Rectificaciones.exe
+c:\users\daniel\documents\visual studio 2012\Projects\Taller_Rectificaciones\Taller_Rectificaciones\bin\Debug\Taller_Rectificaciones.pdb
+c:\users\daniel\documents\visual studio 2012\Projects\Taller_Rectificaciones\Taller_Rectificaciones\obj\Debug\Taller_Rectificaciones.csprojResolveAssemblyReference.cache
+c:\users\daniel\documents\visual studio 2012\Projects\Taller_Rectificaciones\Taller_Rectificaciones\obj\Debug\Taller_Rectificaciones.Form1.resources
+c:\users\daniel\documents\visual studio 2012\Projects\Taller_Rectificaciones\Taller_Rectificaciones\obj\Debug\Taller_Rectificaciones.Properties.Resources.resources
+c:\users\daniel\documents\visual studio 2012\Projects\Taller_Rectificaciones\Taller_Rectificaciones\obj\Debug\Taller_Rectificaciones.csproj.GenerateResource.Cache
+c:\users\daniel\documents\visual studio 2012\Projects\Taller_Rectificaciones\Taller_Rectificaciones\obj\Debug\Taller_Rectificaciones.exe
+c:\users\daniel\documents\visual studio 2012\Projects\Taller_Rectificaciones\Taller_Rectificaciones\obj\Debug\Taller_Rectificaciones.pdb
+C:\Users\Glenda\Downloads\Taller_Rectificaciones\Taller_Rectificaciones\Taller_Rectificaciones\bin\Debug\Taller_Rectificaciones.exe.config
+C:\Users\Glenda\Downloads\Taller_Rectificaciones\Taller_Rectificaciones\Taller_Rectificaciones\obj\Debug\Taller_Rectificaciones.exe
+C:\Users\Glenda\Downloads\Taller_Rectificaciones\Taller_Rectificaciones\Taller_Rectificaciones\obj\Debug\Taller_Rectificaciones.pdb
+C:\Users\Glenda\Downloads\Taller_Rectificaciones\Taller_Rectificaciones\Taller_Rectificaciones\bin\Debug\Taller_Rectificaciones.exe
+C:\Users\Glenda\Downloads\Taller_Rectificaciones\Taller_Rectificaciones\Taller_Rectificaciones\bin\Debug\Taller_Rectificaciones.pdb
+C:\Users\Glenda\Downloads\Taller_Rectificaciones\Taller_Rectificaciones\Taller_Rectificaciones\obj\Debug\Taller_Rectificaciones.csprojResolveAssemblyReference.cache
+C:\Users\Glenda\Downloads\Taller_Rectificaciones\Taller_Rectificaciones\Taller_Rectificaciones\obj\Debug\Taller_Rectificaciones.Form1.resources
+C:\Users\Glenda\Downloads\Taller_Rectificaciones\Taller_Rectificaciones\Taller_Rectificaciones\obj\Debug\Taller_Rectificaciones.Properties.Resources.resources
+C:\Users\Glenda\Downloads\Taller_Rectificaciones\Taller_Rectificaciones\Taller_Rectificaciones\obj\Debug\Taller_Rectificaciones.csproj.GenerateResource.Cache
+E:\Taller_Rectificaciones\Taller_Rectificaciones\Taller_Rectificaciones\bin\Debug\Taller_Rectificaciones.exe.config
+E:\Taller_Rectificaciones\Taller_Rectificaciones\Taller_Rectificaciones\obj\Debug\Taller_Rectificaciones.exe
+E:\Taller_Rectificaciones\Taller_Rectificaciones\Taller_Rectificaciones\obj\Debug\Taller_Rectificaciones.pdb
+E:\Taller_Rectificaciones\Taller_Rectificaciones\Taller_Rectificaciones\bin\Debug\Taller_Rectificaciones.exe
+E:\Taller_Rectificaciones\Taller_Rectificaciones\Taller_Rectificaciones\bin\Debug\Taller_Rectificaciones.pdb
+E:\Taller_Rectificaciones\Taller_Rectificaciones\Taller_Rectificaciones\obj\Debug\Taller_Rectificaciones.csprojResolveAssemblyReference.cache
+E:\Taller_Rectificaciones\Taller_Rectificaciones\Taller_Rectificaciones\obj\Debug\Taller_Rectificaciones.Form1.resources
+E:\Taller_Rectificaciones\Taller_Rectificaciones\Taller_Rectificaciones\obj\Debug\Taller_Rectificaciones.Form2.resources
+E:\Taller_Rectificaciones\Taller_Rectificaciones\Taller_Rectificaciones\obj\Debug\Taller_Rectificaciones.Properties.Resources.resources
+E:\Taller_Rectificaciones\Taller_Rectificaciones\Taller_Rectificaciones\obj\Debug\Taller_Rectificaciones.csproj.GenerateResource.Cache
+E:\Taller_Rectificaciones\Taller_Rectificaciones\Taller_Rectificaciones\obj\Debug\Taller_Rectificaciones.ADMIN.resources
+C:\Users\Aaron\Desktop\Taller_Rectificaciones\Taller_Rectificaciones\bin\Debug\Taller_Rectificaciones.exe.config
+C:\Users\Aaron\Desktop\Taller_Rectificaciones\Taller_Rectificaciones\obj\Debug\Taller_Rectificaciones.exe
+C:\Users\Aaron\Desktop\Taller_Rectificaciones\Taller_Rectificaciones\obj\Debug\Taller_Rectificaciones.pdb
+C:\Users\Aaron\Desktop\Taller_Rectificaciones\Taller_Rectificaciones\bin\Debug\Taller_Rectificaciones.exe
+C:\Users\Aaron\Desktop\Taller_Rectificaciones\Taller_Rectificaciones\bin\Debug\Taller_Rectificaciones.pdb
+C:\Users\Aaron\Desktop\Taller_Rectificaciones\Taller_Rectificaciones\obj\Debug\Taller_Rectificaciones.csprojResolveAssemblyReference.cache
+C:\Users\Aaron\Desktop\Taller_Rectificaciones\Taller_Rectificaciones\obj\Debug\Taller_Rectificaciones.ADMIN.resources
+C:\Users\Aaron\Desktop\Taller_Rectificaciones\Taller_Rectificaciones\obj\Debug\Taller_Rectificaciones.Form1.resources
+C:\Users\Aaron\Desktop\Taller_Rectificaciones\Taller_Rectificaciones\obj\Debug\Taller_Rectificaciones.Form2.resources
+C:\Users\Aaron\Desktop\Taller_Rectificaciones\Taller_Rectificaciones\obj\Debug\Taller_Rectificaciones.Properties.Resources.resources
+C:\Users\Aaron\Desktop\Taller_Rectificaciones\Taller_Rectificaciones\obj\Debug\Taller_Rectificaciones.csproj.GenerateResource.Cache
+C:\Users\Ary\Desktop\Desde cero - copia (2)\Taller_Rectificaciones\Taller_Rectificaciones\bin\Debug\Taller_Rectificaciones.exe.config
+C:\Users\Ary\Desktop\Desde cero - copia (2)\Taller_Rectificaciones\Taller_Rectificaciones\obj\Debug\Taller_Rectificaciones.exe
+C:\Users\Ary\Desktop\Desde cero - copia (2)\Taller_Rectificaciones\Taller_Rectificaciones\obj\Debug\Taller_Rectificaciones.pdb
+C:\Users\Ary\Desktop\Desde cero - copia (2)\Taller_Rectificaciones\Taller_Rectificaciones\bin\Debug\Taller_Rectificaciones.exe
+C:\Users\Ary\Desktop\Desde cero - copia (2)\Taller_Rectificaciones\Taller_Rectificaciones\bin\Debug\Taller_Rectificaciones.pdb
+C:\Users\Ary\Desktop\Desde cero - copia (2)\Taller_Rectificaciones\Taller_Rectificaciones\obj\Debug\Taller_Rectificaciones.csprojResolveAssemblyReference.cache
+C:\Users\Ary\Desktop\Desde cero - copia (2)\Taller_Rectificaciones\Taller_Rectificaciones\obj\Debug\Taller_Rectificaciones.ADMIN.resources
+C:\Users\Ary\Desktop\Desde cero - copia (2)\Taller_Rectificaciones\Taller_Rectificaciones\obj\Debug\Taller_Rectificaciones.Form1.resources
+C:\Users\Ary\Desktop\Desde cero - copia (2)\Taller_Rectificaciones\Taller_Rectificaciones\obj\Debug\Taller_Rectificaciones.Form2.resources
+C:\Users\Ary\Desktop\Desde cero - copia (2)\Taller_Rectificaciones\Taller_Rectificaciones\obj\Debug\Taller_Rectificaciones.Properties.Resources.resources
+C:\Users\Ary\Desktop\Desde cero - copia (2)\Taller_Rectificaciones\Taller_Rectificaciones\obj\Debug\Taller_Rectificaciones.csproj.GenerateResource.Cache
+C:\Users\Aaron\Desktop\Desde cero - copia (2)\Taller_Rectificaciones\Taller_Rectificaciones\bin\Debug\Taller_Rectificaciones.exe.config
+C:\Users\Aaron\Desktop\Desde cero - copia (2)\Taller_Rectificaciones\Taller_Rectificaciones\obj\Debug\Taller_Rectificaciones.exe
+C:\Users\Aaron\Desktop\Desde cero - copia (2)\Taller_Rectificaciones\Taller_Rectificaciones\obj\Debug\Taller_Rectificaciones.pdb

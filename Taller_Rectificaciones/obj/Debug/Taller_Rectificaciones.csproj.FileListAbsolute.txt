@@ -1,0 +1,12 @@
+c:\users\daniel\documents\visual studio 2012\Projects\Taller_Rectificaciones\Taller_Rectificaciones\bin\Debug\Taller_Rectificaciones.exe.config
+c:\users\daniel\documents\visual studio 2012\Projects\Taller_Rectificaciones\Taller_Rectificaciones\bin\Debug\Taller_Rectificaciones.exe
+c:\users\daniel\documents\visual studio 2012\Projects\Taller_Rectificaciones\Taller_Rectificaciones\bin\Debug\Taller_Rectificaciones.pdb
+c:\users\daniel\documents\visual studio 2012\Projects\Taller_Rectificaciones\Taller_Rectificaciones\obj\Debug\Taller_Rectificaciones.csprojResolveAssemblyReference.cache
+c:\users\daniel\documents\visual studio 2012\Projects\Taller_Rectificaciones\Taller_Rectificaciones\obj\Debug\Taller_Rectificaciones.Form1.resources
+c:\users\daniel\documents\visual studio 2012\Projects\Taller_Rectificaciones\Taller_Rectificaciones\obj\Debug\Taller_Rectificaciones.Properties.Resources.resources
+c:\users\daniel\documents\visual studio 2012\Projects\Taller_Rectificaciones\Taller_Rectificaciones\obj\Debug\Taller_Rectificaciones.csproj.GenerateResource.Cache
+c:\users\daniel\documents\visual studio 2012\Projects\Taller_Rectificaciones\Taller_Rectificaciones\obj\Debug\Taller_Rectificaciones.exe
+c:\users\daniel\documents\visual studio 2012\Projects\Taller_Rectificaciones\Taller_Rectificaciones\obj\Debug\Taller_Rectificaciones.pdb
+E:\Taller_Rectificaciones\Taller_Rectificaciones\bin\Debug\Taller_Rectificaciones.exe.config
+E:\Taller_Rectificaciones\Taller_Rectificaciones\obj\Debug\Taller_Rectificaciones.exe
+E:\Taller_Rectificaciones\Taller_Rectificaciones\obj\Debug\Taller_Rectificaciones.pdb
